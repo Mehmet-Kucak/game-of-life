@@ -4,7 +4,7 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head>
-        <title>Convay's Game of Life</title>
+        <title>Convay&apos;s Game of Life</title>
         <link rel="shortcut icon" href="/Favicon.png" />
       </Head>
       <body>
